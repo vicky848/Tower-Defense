@@ -1,0 +1,3 @@
+:root{--ink:#0b1117;--panel:#131c26;--line:#25323f;--text:#dfe8f1;--dim:#8497aa;--gold:#ffcf5a;--hp:#ff5d73;--ok:#7dff9a;--accent:#4cc9f0}
+*{box-sizing:border-box}html,body,#root{height:100%;margin:0}
+body{background:var(--ink);color:var(--text);font:14px/1.4 "Trebuchet MS","Segoe UI",system-ui,sans-serif;overflow:hidden;user-select:none}
